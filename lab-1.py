@@ -6,3 +6,4 @@ summa = reduce(lambda x, y: x + y, f_san)
 
 print("берілген сандар:", sandar)
 print("1-ден артық сұрыпталған сандар :", summa)
+print('Bul Karlygash')
