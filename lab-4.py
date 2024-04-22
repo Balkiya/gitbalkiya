@@ -19,3 +19,4 @@ fibonacci_lazy = fibonacci()
 for num in islice(fibonacci_lazy(), 10):
     print(num)
     print('Salemetsiz be, apai, bul Aruzhan')
+    print('Commit')
